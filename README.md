@@ -1,0 +1,1 @@
+# tridion-validate-component-title
